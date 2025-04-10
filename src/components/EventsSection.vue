@@ -36,8 +36,8 @@ import eventsData from "@/locales.json";
     computed: {
       imageSrc() {
         return this.windowWidth < 992
-          ? require("https://orchestra-website-5e76d.web.app/images/events_small.webp")
-          : require("https://orchestra-website-5e76d.web.app/images/events.webp");
+          ? "https://orchestra-website-5e76d.web.app/images/events_small.webp"
+          : "https://orchestra-website-5e76d.web.app/images/events.webp";
       },
     },
     mounted() {
