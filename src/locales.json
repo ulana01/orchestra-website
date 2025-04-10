@@ -1,0 +1,109 @@
+{
+    "en": {
+      "event": "Events",
+      "about": "About us",
+      "community": "Community",
+      "support": "Support us",
+      "title": "NU ORCHESTRA",
+      "subtitle": "Cultural and musical association of students",
+      "viewSchedule": "VIEW EVENT SCHEDULE",
+      "seeAllEvents": "See All Events",
+      "events": [
+            {
+                "id": 1,
+                "location": "Nazarbayev University, Amphitheatre",
+                "date": "March 20, 2025",
+                "title": "Dombyra Night",
+                "link": "https://photos.app.goo.gl/6bNcXabecuZuBVGr7"
+            },    
+            {
+                "id": 1,
+                "location": "Nazarbayev University, Main Hall",
+                "date": "November 16-17, 2024",
+                "title": "“THE SHOW” - CHOIRCHESTRA",
+                 "link": "https://photos.app.goo.gl/Qd9Eavwgt4rbzjVa9"
+            },
+            {
+                "id": 2,
+                "location": "Nazarbayev University, Main Hall",
+                "date": "April 6-7, 2024",
+                "title": "Grand Concert’24",
+                 "link": "https://photos.app.goo.gl/aBEpfgpEXeNqDLGw9"
+            }
+        ],
+        "aboutUsTitle": "About Us",
+        "aboutUsDescription":"The orchestra is a student club consisting of more than 60 people, including musicians, an event management department, and an SMM department consisting of graphic designers and videographers. The very first Grand Concert of the 2017-2018 academic year for the first time brought together the largest full hall of our university - the Main Hall with a capacity of 1300 seats. Since then, Grand Concerts have been held annually in the spring semester, gathering full houses. The concert of the last year was held for two days, which allowed to reach an audience of 2,600 people."
+    },
+    "kz": {
+      "event": "Іс-шаралар",
+      "about": "Біз туралы",
+      "community": "Қауымдастық",
+      "support": "Бізді қолданыз",
+      "title": "NU ORCHESTRA",
+      "subtitle": "Студенттердің мәдени және музыкалық қауымдастығы",
+      "viewSchedule": "ІС-ШАРА КЕСТЕСІ",
+      "seeAllEvents": "Барлық іс-шараларды қарау",
+      "events": [
+            {
+                "id": 1,
+                "location": "Назарбаев Университеті, Амфитеатр",
+                "date": "20 наурыз, 2024",
+                "title": "Домбыра кеші",
+                "link": "https://photos.app.goo.gl/6bNcXabecuZuBVGr7"
+            },    
+            {
+                "id": 2,
+                "location": "Назарбаев Университеті, Мейн Хол",
+                "date": "16-17 қараша, 2024",
+                "title": "«ШОУ» - ХОРКЕСТРА",
+                "link": "https://photos.app.goo.gl/Qd9Eavwgt4rbzjVa9"
+            },
+            {
+                "id": 3,
+                "location": "Назарбаев Университеті, Мейн Хол",
+                "date": "6-7 сәуір, 2024",
+                "title": "Гранд Концерт’24",
+                "link": "https://photos.app.goo.gl/aBEpfgpEXeNqDLGw9"
+            }
+        ],
+        "aboutUsTitle": "Біз туралы",
+        "aboutUsDescription":"Оркестр - бұл 60-тан астам адамнан тұратын студенттер клубы оның ішінде музыканттар, іс-шараларды ұйымдастыру бөлімі, СММ бөлім графикалық дизайнерлер мен бейнографтардан тұрады. 2017-2018 оқу жылындағы ең алғашқы үлкен Концерт алғаш рет біздің университеттің ең үлкен залы-1300 орындық Main Hall-собра жинады. Содан бері Гранд концерттер жыл сайын көктемгі семестрде өткізіліп, толық залдарды жинайды. Соңғы жылдағы Концерт екі күн бойы өткізілді, бұл 2600 адамнан тұратын аудиторияны қамтуға мүмкіндік берді."
+    },
+    "ru": {
+      "event": "Мероприятия",
+      "about": "О нас",
+      "community": "Сообщество",
+      "support": "Поддержите нас",
+      "title": "NU ORCHESTRA",
+      "subtitle": "Культурное и музыкальное объединение студентов",
+      "viewSchedule": "РАСПИСАНИЕ СОБЫТИЙ",
+      "seeAllEvents": "Смотреть все события",
+      "events": [
+            {
+                "id": 1,
+                "location": "Назарбаев Университет, Амфитеатр",
+                "date": "20 марта 2025",
+                "title": "Dombyra keshi",
+                "link": "https://photos.app.goo.gl/6bNcXabecuZuBVGr7"
+            },
+            {
+                "id": 2,
+                "location": "Назарбаев Университет, Мейн Хол",
+                "date": "16-17 ноября 2024",
+                "title": "«ШОУ» - ХОРКЕСТРА",
+                "link": "https://photos.app.goo.gl/Qd9Eavwgt4rbzjVa9"
+            },
+            {
+                "id": 3,
+                "location": "Назарбаев Университет, Мейн Хол",
+                "date": "6-7 апреля 2024",
+                "title": "Гранд Концерт’24",
+                "link": "https://photos.app.goo.gl/aBEpfgpEXeNqDLGw9"
+            }
+        ],
+        "aboutUsTitle": "О нас",
+        "aboutUsDescription":"Оркестр - студенческий клуб состоящий из более чем 60 человек в число которых входят музыканты, департамент организации ивентов, СММ департамент состоящий из графических  дизайнеров и видеографов. Самый первый Гранд Концерт 2017-2018 го учебного года впервые собрал полный крупнейший зал нашего университета - Main Hall вместимостью в 1300 мест. С тех пор Гранд концерты проводятся ежегодно в весеннем семестре, собирая полные залы. Концерт последнего года проводился в течении двух дней, что позволило охватить аудиторию в 2600 человек."
+    }
+  }
+
+  
