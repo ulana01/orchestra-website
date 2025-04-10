@@ -116,10 +116,6 @@
       height: 80px;
       width: auto;
     }
-    .social-link img {
-    width: 20px;
-    height: 20px;
-  }
   }
   </style>
   
