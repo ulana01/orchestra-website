@@ -6,7 +6,7 @@
           <p>{{ $t('aboutUsDescription') }}</p>
         </div>
         <div class="image-container">
-          <img src="https://orchestra-website-5e76d.web.app/images/about-us-image.webp" alt="About Us Image" class="about-image" />
+          <img src="https://orchestra-website-5e76d.web.app/images/about-centered.webp" alt="About Us Image" class="about-image" />
         </div>
       </div>
     </section>
@@ -71,7 +71,7 @@
     border-radius: 8px;
   }
   
-  @media (max-width: 768px) {
+  @media (max-width: 1080px) {
     .about-content {
       flex-direction: column;
       text-align: center;

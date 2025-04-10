@@ -99,6 +99,13 @@
       margin: 0;
     }
   }
+
+  @media (max-width: 480px) {
+    .footer-logo {
+      height: 80px;
+      width: auto;
+    }
+  }
   </style>
   
   
