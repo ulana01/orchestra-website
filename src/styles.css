@@ -9,7 +9,7 @@ html, body {
   padding: 0;
   overflow-x: hidden;
   color: white;
-  background: url('assets/bg1.png') no-repeat center center/cover;
+  background: url('https://orchestra-website-5e76d.web.app/images/bg1.webp') no-repeat center center/cover;
 }
 
 #app {

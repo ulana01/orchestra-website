@@ -1,7 +1,7 @@
 <template>
     <footer class="footer" id = "footer-section">
       <div class="footer-left">
-        <img src="@/assets/logo_gold.png" alt="Logo" class="footer-logo" />
+        <img src="https://orchestra-website-5e76d.web.app/images/logo_gold.webp" alt="Logo" class="footer-logo" />
         <div class="footer-info">
           <h2 class="footer-title">NU ORCHESTRA</h2>
           <p>📧 Orchestra@nu.edu.kz</p>

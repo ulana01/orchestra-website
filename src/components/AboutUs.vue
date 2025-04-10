@@ -6,7 +6,7 @@
           <p>{{ $t('aboutUsDescription') }}</p>
         </div>
         <div class="image-container">
-          <img src="@/assets/about-us-image.png" alt="About Us Image" class="about-image" />
+          <img src="https://orchestra-website-5e76d.web.app/images/about-us-image.webp" alt="About Us Image" class="about-image" />
         </div>
       </div>
     </section>
