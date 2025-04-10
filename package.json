@@ -6,7 +6,8 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages --dotfiles --add -d dist",
+    "homepage": "https://ulana01.github.io/orchestra-website"
   },
   "dependencies": {
     "core-js": "^3.8.3",
