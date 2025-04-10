@@ -101,10 +101,25 @@
   }
 
   @media (max-width: 480px) {
+    .footer {
+    padding: 20px 30px;
+    gap: 12px;
+    }
+    .footer-title {
+      font-size: 18px;
+    }
+
+    .footer-info p {
+      font-size: 14px;
+    }
     .footer-logo {
       height: 80px;
       width: auto;
     }
+    .social-link img {
+    width: 20px;
+    height: 20px;
+  }
   }
   </style>
   
